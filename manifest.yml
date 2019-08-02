@@ -7,4 +7,4 @@ applications:
   no-route: true
   buildpacks:
   - https://github.com/cloudfoundry/php-buildpack.git
-  path: ./phpinfo
+  path: ./phpinfo.php
